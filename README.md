@@ -51,6 +51,6 @@ Follow these instructions to get a copy of the Assister app up and running on yo
 
 
 
-**Note:** Customize this README template to suit your project's specific details and requirements.
+
 
 
