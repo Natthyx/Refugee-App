@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the Assister app up and running on yo
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [Other dependencies, if any]
+- [OpenAI](https://platform.openai.com/docs/introduction)]
 
 ### Installation
 
