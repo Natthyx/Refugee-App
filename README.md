@@ -43,11 +43,11 @@ Follow these instructions to get a copy of the Assister app up and running on yo
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/refugee-app.git`
+1. Clone the repository: `git clone https://github.com/nati-d/refugee-app.git`
 
-2. Change into the project directory: `cd client-app`
+3. Change into the project directory: `cd client-app`
 
-3. Install dependencies: `npm install`
+4. Install dependencies: `npm install`
 
 
 
